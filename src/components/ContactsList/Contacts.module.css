@@ -1,0 +1,17 @@
+.div {
+    display: flex;
+    padding: 5px;
+}
+
+.name {
+    font-size: 15px;
+    margin: 10px;
+    font-weight: 700;
+}
+
+.button {
+    background-color: aliceblue;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
