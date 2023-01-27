@@ -18,7 +18,6 @@ export const ContactForm = ({ create }) => {
         }
     }
 
-
     const handleSubmit = (e) => {
         e.preventDefault()
         create({ name, number})
